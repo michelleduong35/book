@@ -62,7 +62,6 @@ ReadAR, short for Read Radar, is an app that uses _____ API to recommend users b
 
 - [ ] Home
 * Book Details
-* ...
 - [ ] Book Details
 * back to home/favorites
 
