@@ -43,12 +43,12 @@ ReadAR, short for Read Radar, is an app that uses _____ API to recommend users b
 * Navigate to other tabs
 * Add book to favorite/not interested lists
 * View details by clicking book image
-- [] Favorite Page
+- [ ] Favorite Page
 * See list of favorited books
 * Delete books from the list
 * View detailed info
 * ...
-- [] Book Detailed View
+- [ ] Book Detailed View
 * See details and text summary regarding book
 
 ### 3. Navigation
