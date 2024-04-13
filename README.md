@@ -15,12 +15,12 @@ ReadAR, short for Read Radar, is an app that uses _____ API to recommend users b
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Entertainment
+- **Mobile:** The convenience of having favorited books on your phone and UI
+- **Story:** A huge resource to the reader community, as it would make finding the next read more easily. My friends would love this idea.
+- **Market:** Definitely niche audience, just readers and perhaps those interested in getting into reading with recommendations.
+- **Habit:** Users who read often would probably continously return to the app to add new recs and see what their next read should be. (Creates a list)
+- **Scope:** Could be a bit technically difficult, but the core app implements a lot of features I already know.
 
 ## Product Spec
 
@@ -28,46 +28,48 @@ ReadAR, short for Read Radar, is an app that uses _____ API to recommend users b
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Swipe to favorite and mark books as not interested
+* Books need to be provided by API
+* Users should be able to remove books from their favorited section
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Detailed view of book
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
+- [ ] Discover (Home) Page
+* Users can view books and summary details
+* Navigate to other tabs
+* Add book to favorite/not interested lists
+* View details by clicking book image
+- [] Favorite Page
+* See list of favorited books
+* Delete books from the list
+* View detailed info
 * ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [] Book Detailed View
+* See details and text summary regarding book
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Discover (Home)
+* Favorites
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
+- [ ] Home
+* Book Details
 * ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [ ] Book Details
+* back to home/favorites
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
 ### [BONUS] Digital Wireframes & Mockups
+https://www.figma.com/file/kKCqRzKvtod5fRDGOk1hox/readAR?type=design&node-id=0%3A1&mode=design&t=CcWmu8YGX11Ojb57-1
 
 ### [BONUS] Interactive Prototype
 
